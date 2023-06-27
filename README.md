@@ -1,12 +1,17 @@
-<h1 align= "center">Hi there, I am Ludwig</h1>
-<h2 align= "center">Data Scientist</h2>
+<h1 align= "center">Hi there 👋, I am Ludwig</h1>
+<h2 align= "center">Data Scientist | Mechanical Engineer</h2>
 
-- I studied Mechanical Engineering at TUM :man_mechanic: :mechanical_arm: :older_woman:
+<h2 align = left>About Me:</h2>
+
+<h2 align = left>This is where i learned:</h2>
+
+- I studied Mechanical Engineering at TUM :man_mechanic: :mechanical_arm:
 - I am a former Le Wagon Alumni :bully:
 - 👀 I’m interested in ...
 
 
-<div align= "center">
+<div align= "left">   
+    <h2>These are the projects I created since I started coding</h2>
     <div align= "left", style = "width :50%; float: left">
         <p align= "center">Hello</p>
     </div>
