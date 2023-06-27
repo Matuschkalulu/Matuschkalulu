@@ -7,27 +7,8 @@
 
 - I studied Mechanical Engineering at TUM :man_mechanic: :mechanical_arm:
 - I am a former Le Wagon Alumni :bus:
+
 - 👀 I’m interested in ...
-
-| | |
-|:-------------------------:|:-------------------------:|
-|<p align= "center" width = "500">Project 1</p>|<p align= "center">Project 2</p>|
-
-
-
-<div align= "left" sytle = "width: fit-content;
-display: inline-block;">   
-    <h2>These are the projects I created since I started coding</h2>
-    <div align= "left" style = "width :45%; float: left; display: inline-block;">
-        <p align= "center">Project 1</p>
-    </div>
-    <div align= "right" style = "width :45%; float: right;display: inline-block;">
-        <p align= "center">Project 2</p>
-    </div>
-</div>
-
-
-- 👋 Hi, I’m @Matuschkalulu
 
 - 🌱 I’m currently learning ...
 
