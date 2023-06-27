@@ -16,7 +16,7 @@
 
 
 <div align= "left" sytle = "width: fit-content;
-block-size: fit-content;">   
+display: inline-block;">   
     <h2>These are the projects I created since I started coding</h2>
     <div align= "left" style = "width :45%; float: left">
         <p align= "center">Project 1</p>
