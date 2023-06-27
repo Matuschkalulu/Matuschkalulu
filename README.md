@@ -8,6 +8,11 @@
 - I studied Mechanical Engineering at TUM :man_mechanic: :mechanical_arm:
 - I am a former Le Wagon Alumni :bus:
 - 👀 I’m interested in ...
+| | |
+|:-------------------------:|:-------------------------:|
+|<p align= "center">Project 1</p>|<p align= "center">Project 2</p>|
+
+
 
 <div align= "left">   
     <h2>These are the projects I created since I started coding</h2>
