@@ -9,21 +9,20 @@
 - I am a former Le Wagon Alumni :bus:
 - 👀 I’m interested in ...
 
-
+| | |
+|:-------------------------:|:-------------------------:|
 |<p align= "center" width = "500">Project 1</p>|<p align= "center">Project 2</p>|
 
 
 
 <div align= "left">   
     <h2>These are the projects I created since I started coding</h2>
-    | | |
-    |:-------------------------:|:-------------------------:|
-    |<div align= "left", style = "width :50%; float: left">
+    <div align= "left", style = "width :50%; float: left">
         <p align= "center">Project 1</p>
-    </div>|
-    |<div align= "right", , style = "width :50%; float: right">
+    </div>
+    <div align= "right", , style = "width :50%; float: right">
         <p align= "center">Project 2</p>
-    </div>|
+    </div>
 </div>
 
 
