@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @Matuschkalulu
+<h1 align= "center">Hi there, I am Ludwig</h1>
+<h2 align= "center">Data Scientist</h2>
+
+- I studied Mechanical Engineering at TUM :man_mechanic: :mechanical_arm: :older_woman:
+- I am a former Le Wagon Alumni :wagon:
 - 👀 I’m interested in ...
+
+
+<div align= "center">
+    <div align= "left", style = "width :50%; float: left">
+        <p align= "center">Hello</p>
+    </div>
+    <div align= "right", , style = "width :50%; float: right">
+        <p align= "center">How</p>
+    </div>
+</div>
+
+
+- 👋 Hi, I’m @Matuschkalulu
+
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...
 
 <!---
