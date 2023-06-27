@@ -6,7 +6,7 @@
 <h2 align = left>This is where i learned:</h2>
 
 - I studied Mechanical Engineering at TUM :man_mechanic: :mechanical_arm:
-- I am a former Le Wagon Alumni :bully:
+- I am a former Le Wagon Alumni :bus:
 - 👀 I’m interested in ...
 
 
