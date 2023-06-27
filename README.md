@@ -12,10 +12,10 @@
 
 <div align= "left">   
     <h2>These are the projects I created since I started coding</h2>
-    <div align= "left", style = "width :200px; float: left">
+    <div align= "left", style = "width :50%; float: left">
         <p align= "center">Hello</p>
     </div>
-    <div align= "right", , style = "width :200px; float: right">
+    <div align= "right", , style = "width :50%; float: right">
         <p align= "center">How</p>
     </div>
 </div>
