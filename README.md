@@ -2,7 +2,7 @@
 <h2 align= "center">Data Scientist</h2>
 
 - I studied Mechanical Engineering at TUM :man_mechanic: :mechanical_arm: :older_woman:
-- I am a former Le Wagon Alumni :wagon:
+- I am a former Le Wagon Alumni :bully:
 - 👀 I’m interested in ...
 
 
